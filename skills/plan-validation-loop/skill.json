@@ -1,0 +1,9 @@
+{
+  "id": "skill.plan-validation-loop",
+  "name": "plan-validation-loop",
+  "version": "0.1.0",
+  "license": "Apache-2.0",
+  "description": "Multi-round plan validation loop that verifies and refines repair plans (does not execute repairs).",
+  "triggers": ["/plan-validation-loop", "校验计划", "循环校验", "19维度校验"],
+  "entry": "SKILL.md"
+}
