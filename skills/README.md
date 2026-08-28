@@ -5,8 +5,7 @@ This directory collects individual skills as sub-paths inside this repository (m
 Current skills:
 
 - plan-validation-loop
-  - path: skills/plan-validation-loop.md
-  - recommended canonical location: skills/plan-validation-loop/README.md (not yet moved)
+  - path: skills/plan-validation-loop/
   - description: Multi-round plan validation loop that verifies and refines repair plans (does not execute repairs).
 
 Guidelines for adding new skills
